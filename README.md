@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-My demo project deploy here: [Demo](https://weather-app-demo-kevin.netlify.app/dashboard/weather)
+My demo project deploy here: [Demo](https://calculadora-propinas-consumo-kevin.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

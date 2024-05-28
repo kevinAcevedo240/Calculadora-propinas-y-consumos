@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+[![Banner-Propina-project.png](https://i.postimg.cc/pdjcFw4D/Banner-Propina-project.png)](https://postimg.cc/NygxhzgM)
+
 My demo project deploy here: [Demo](https://calculadora-propinas-consumo-kevin.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
